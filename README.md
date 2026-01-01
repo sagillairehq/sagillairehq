@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Santis
+
+💻 **Tech Lead Frontend**  
+🎯 Desarrollador enfocado en construir productos sólidos y escalables  
 
 <!--
 **sagillairehq/sagillairehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
