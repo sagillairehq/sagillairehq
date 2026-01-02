@@ -17,6 +17,13 @@ Me enfoco en **código mantenible** y **arquitecturas escalables**, priorizando 
 - Node.js  
 - Clean Architecture
 
+---
+
+### 🌍 Idiomas
+- Español (nativo)  
+- Inglés (B1)
+
+
 <!--
 **sagillairehq/sagillairehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
