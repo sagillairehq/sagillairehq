@@ -7,6 +7,16 @@
 
 ### 🚀 Sobre mí
 Me enfoco en **código mantenible** y **arquitecturas escalables**, priorizando buenas prácticas, DX y decisiones técnicas que envejezcan bien.
+
+---
+
+### 🛠️ Tecnologías
+- React  
+- TypeScript  
+- TanStack  
+- Node.js  
+- Clean Architecture
+
 <!--
 **sagillairehq/sagillairehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
