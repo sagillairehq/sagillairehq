@@ -28,6 +28,10 @@ Me enfoco en **código mantenible** y **arquitecturas escalables**, priorizando 
 ### 📫 Conectemos
 - 💼 [LinkedIn](https://www.linkedin.com/in/jasantise/)
 
+---
+
+> _“Menos magia, más claridad.”_
+
 <!--
 **sagillairehq/sagillairehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
